@@ -1,0 +1,58 @@
+.bolder{
+    font-weight:400;
+    font-size:8vw;
+    padding-bottom: 12px;
+}
+.row_class{
+    margin-top: 150px;
+}
+.para{
+    font-size: 22px;
+    color: white;
+}
+#BoxRow{
+    display: flex;
+    justify-content: center;
+    margin-left: 5vw;
+}
+#jumbotron {
+    padding: 1rem 1rem;
+    margin-bottom: 2rem;
+    background-color:rgb(80,77,82);
+    border-radius: 15px;
+    width:fit-content;
+    color:rgb(155,120,222)
+}
+.jumbotron_div{
+    margin: 50px 50px 0px 50px ;
+    padding: 5px;
+    padding-bottom: 50px;
+    text-align: justify;
+}
+#cell{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    padding: 20px;
+    font-weight: bold;
+}
+#cell:hover{
+    background-color:  rgb(80, 77, 82);
+    border-radius: 15px;}
+        
+#top{
+    font-size: 20px;
+}
+#mid{
+    font-size: 16px;
+}
+#bot{
+    font-size: 30px;
+}
+.github{
+    color:white;
+}
+.github:hover{
+    color: rgb(155,120,222);
+}

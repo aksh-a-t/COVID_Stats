@@ -1,0 +1,11 @@
+.custom{
+    padding-top: 50px;
+    padding-left: 70px;
+    position: fixed;
+    z-index: 1;
+}
+.customtext{
+
+    color: rgb(155,120,222);
+    font-size: 30px;
+}
